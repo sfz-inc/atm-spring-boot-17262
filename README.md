@@ -1,6 +1,6 @@
 # atm-spring-boot-17262 
 
-This project contains A Spring Boot REST Service. The best REST service.
+This project contains A Spring Boot REST Service. The REST service.
 
 ## Development
 
